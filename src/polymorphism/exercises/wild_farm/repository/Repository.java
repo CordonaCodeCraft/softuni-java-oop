@@ -1,7 +1,7 @@
 package polymorphism.exercises.wild_farm.repository;
 
-import polymorphism.exercises.wild_farm.repository.entities.animals.Animal;
-import polymorphism.exercises.wild_farm.repository.entities.foods.Food;
+import polymorphism.exercises.wild_farm.entities.animals.Animal;
+import polymorphism.exercises.wild_farm.entities.foods.Food;
 
 import java.util.ArrayList;
 import java.util.List;
