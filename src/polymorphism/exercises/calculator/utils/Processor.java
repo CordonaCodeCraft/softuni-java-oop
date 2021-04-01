@@ -31,6 +31,7 @@ public abstract class Processor {
                             calculator.setCacheState(Cache.LOCKED);
                             calculator.setResultState(Result.UNLOCKED);
                         }
+
                         break;
                     case OPERATOR:
                         applyOperator(calculator, token);
